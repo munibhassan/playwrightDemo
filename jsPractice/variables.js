@@ -58,6 +58,6 @@ console.log(mg);
 
 //const must be defined
 const days= 7;
-//days=10;
+//days=103;
 console.log(100*7);
 
